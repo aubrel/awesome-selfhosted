@@ -842,6 +842,8 @@ See also [awesome-gis](https://github.com/sshuair/awesome-gis).
 
 **[`^        back to top        ^`](#)**
 
+- [Airsonic](https://airsonic.github.io/) - Free, web-based music streamer designed for large media libraries that can stream video and music over HTTP. With use of transcoder plug-ins, Airsonic can also be used for on-the-fly conversion and streaming of audio formats ([Source Code](https://github.com/airsonic/airsonic)). `Java`
+
 See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https://en.wikipedia.org/wiki/Comparison_of_streaming_media_systems>
 
 ### Multimedia Streaming
